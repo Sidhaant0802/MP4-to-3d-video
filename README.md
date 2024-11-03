@@ -1,5 +1,11 @@
 # MP4-to-3d-video
 
+# Code Instructions
+
+1) Download the repo and unzip.
+2) Open the folder with cmd and run this command :- pip install -r requirements.txt
+3) Run 3d.py thorugh cmd itself and you cqn convert the videos.
+
 # Materials Needed
 Red and Cyan Transparent Plastic Sheets:
 
